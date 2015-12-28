@@ -1,3 +1,2 @@
 # IronHand 可以捏爆鐵罐的手
-
-這是停工已久的一個作品，希望能有時間可以繼續下去。
+![2015-12-28 19 07 18](https://cloud.githubusercontent.com/assets/12403337/12017920/994aeadc-ad97-11e5-8530-cd7fb4ab9b38.png)
