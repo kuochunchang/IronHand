@@ -10,3 +10,4 @@ Produced by CNC
 I'd like to use motors like this to provide power of finger. 
 ![Motor](02.jpg)
 ![Power](01.jpg)
+![Motion](04.jpg)
