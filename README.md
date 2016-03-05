@@ -5,5 +5,8 @@ Only one finger has designed.
 
 
 Produced by CNC
+![CNC](03.jpg)
 
 I'd like to use motors like this to provide power of finger. 
+![Motor](02.jpg)
+![Power](01.jpg)
